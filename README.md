@@ -5,6 +5,19 @@
 
 This JavaFX application serves as a GUI-based **Inventory Management System** tailored for a small manufacturing organization transitioning from a spreadsheet-based workflow to a more advanced system. It allows users to add, modify, delete, and search for both parts and products, with the capability to save and load data through files or a database.
 
+---
+
+## 🛠 Tools & Technologies Used
+
+- **Java** – Primary programming language  
+- **JavaFX** – GUI framework  
+- **Scene Builder** – For designing FXML layouts  
+- **Eclipse IDE** – Development environment  
+- **MySQL** – Database for persistent storage  
+- **JDBC** – Java Database Connectivity to communicate with MySQL
+
+---
+
 ## Features
 
 ### ✅ Main Screen
